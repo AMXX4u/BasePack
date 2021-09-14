@@ -26,7 +26,7 @@
 | [AMX Mod X](https://www.amxmodx.org/amxxdrop/1.9/)                                | AMXX Dev Team         | 1.9.0.5281   |
 | [MetaMod -r](https://github.com/theAsmodai/metamod-r)                             | theAsmodai            | 1.3.128      |
 | [ReHLDS](https://github.com/dreamstalker/rehlds/)                                 | dreamstalker          | 3.10.0.761   |
-| [ReAPI](https://github.com/s1lentq/reapi)      								                    | s1lentq               | 5.20.0.231   |
+| [ReAPI](https://github.com/s1lentq/reapi)      								                    | s1lentq               | 5.20.0.236   |
 | [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS)                              | s1lentq               | 5.21.0.534   |
 | [Reunion](https://cs.rin.ru/forum/viewtopic.php?f=29&t=69235)                     | theAsmodai            | 0.1.0.92     |
 | [VoiceTranscoder](https://www.dedicated-server.ru/vbb/showthread.php?t=26550)     | s1lentq               | 2017 RC5     |
