@@ -30,7 +30,7 @@
 | ⚙️ [ReAPI](https://github.com/s1lentq/reapi)      								                        | [s1lentq](https://github.com/s1lentq)               | 5.21.0.252   |
 | 💡 [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS)                                  | [s1lentq](https://github.com/s1lentq)               | 5.21.0.546   |
 | 🔐 [Reunion](https://cs.rin.ru/forum/viewtopic.php?f=29&t=69235)                         | [theAsmodai](https://github.com/theAsmodai)            | 0.1.0.92     |
-| 🔊 [VoiceTranscoder](https://www.dedicated-server.ru/vbb/showthread.php?t=26550)         | [s1lentq](https://github.com/s1lentq)               | 2017 RC5     |
+| 🔊 [ReVoice Plus](https://github.com/Garey27/revoice-plus)         | [Garey27](https://github.com/Garey27/)               | 2.0.5     |
 
 ---
 
