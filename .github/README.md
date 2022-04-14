@@ -40,7 +40,7 @@
 | 🔍 [ReAuthCheck](https://dev-cs.ru/resources/63/download)                            | [Adidasman](https://github.com/Adidasman1)             | 0.1.6        |
 | 📛 [WHBlocker](https://dev-cs.ru/resources/76/download)                              | [s1lentq](https://github.com/s1lentq)               | 1.5.697      |
 | 💮 [ReSemiclip](https://dev-cs.ru/resources/71/download)                             | [Adidasman](https://github.com/Adidasman1) & [s1lentq](https://github.com/s1lentq)   | 2.3.9        |
-| 👤 [Hitbox Fixer](https://github.com/Garey27/hitbox_fixer/releases)                             | [Garey27](https://github.com/Garey27) | 1.0.4        |
+| 👤 [Hitbox Fixer](https://github.com/Garey27/hitbox_fixer/releases)                             | [Garey27](https://github.com/Garey27) | 1.0.7        |
 
 ## Downloads
 - [Github Releases](https://github.com/PawelCode/BasePack/releases/latest)
