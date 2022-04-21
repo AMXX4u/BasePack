@@ -26,7 +26,7 @@
 |:-----------------------------------------------                                       |:----------------------|:-------------|
 | 🔧 [AMX Mod X](https://www.amxmodx.org/amxxdrop/1.9/)                                 | [AMXX Dev Team](https://www.amxmodx.org/)         | 1.9.0.5281   |
 | 💣 [MetaMod -r](https://github.com/theAsmodai/metamod-r)                                 | [theAsmodai](https://github.com/theAsmodai)            | 1.3.128      |
-| 📈 [ReHLDS](https://github.com/dreamstalker/rehlds/)                                     | [dreamstalker](https://github.com/dreamstalker)          | 3.11.0.767   |
+| 📈 [ReHLDS](https://github.com/dreamstalker/rehlds/)                                     | [dreamstalker](https://github.com/dreamstalker)          | 3.11.0.776   |
 | ⚙️ [ReAPI](https://github.com/s1lentq/reapi)      								                        | [s1lentq](https://github.com/s1lentq)               | 5.21.0.252   |
 | 💡 [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS)                                  | [s1lentq](https://github.com/s1lentq)               | 5.21.0.546   |
 | 🔐 [Reunion](https://cs.rin.ru/forum/viewtopic.php?f=29&t=69235)                         | [theAsmodai](https://github.com/theAsmodai)            | 0.1.0.92     |
@@ -40,7 +40,7 @@
 | 🔍 [ReAuthCheck](https://dev-cs.ru/resources/63/download)                            | [Adidasman](https://github.com/Adidasman1)             | 0.1.6        |
 | 📛 [WHBlocker](https://dev-cs.ru/resources/76/download)                              | [s1lentq](https://github.com/s1lentq)               | 1.5.697      |
 | 💮 [ReSemiclip](https://dev-cs.ru/resources/71/download)                             | [Adidasman](https://github.com/Adidasman1) & [s1lentq](https://github.com/s1lentq)   | 2.3.9        |
-| 👤 [Hitbox Fixer](https://github.com/Garey27/hitbox_fixer/releases)                             | [Garey27](https://github.com/Garey27) | 1.0.7        |
+| 👤 [Hitbox Fixer](https://github.com/Garey27/hitbox_fixer/releases)                             | [Garey27](https://github.com/Garey27) | 1.0.10        |
 
 ## Downloads
 - [Github Releases](https://github.com/PawelCode/BasePack/releases/latest)
