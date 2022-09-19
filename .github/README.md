@@ -26,7 +26,7 @@
 |:-----------------------------------------------                                       |:----------------------|:-------------|
 | 🔧 [AMX Mod X](https://www.amxmodx.org/amxxdrop/1.9/)                                 | [AMXX Dev Team](https://www.amxmodx.org/)         | 1.9.0.5281   |
 | 💣 [Metamod-r](https://github.com/theAsmodai/metamod-r)                                 | [theAsmodai](https://github.com/theAsmodai)            | 1.3.0.131     |
-| 📈 [ReHLDS](https://github.com/dreamstalker/rehlds/)                                     | [dreamstalker](https://github.com/dreamstalker)          | 3.11.0.779   |
+| 📈 [ReHLDS](https://github.com/dreamstalker/rehlds/)                                     | [dreamstalker](https://github.com/dreamstalker)          | 3.12.0.780   |
 | ⚙️ [ReAPI](https://github.com/s1lentq/reapi)      								                        | [s1lentq](https://github.com/s1lentq)               | 5.22.0.254   |
 | 💡 [ReGameDLL](https://github.com/s1lentq/ReGameDLL_CS)                                  | [s1lentq](https://github.com/s1lentq)               | 5.21.0.556   |
 | 🔐 [Reunion](https://cs.rin.ru/forum/viewtopic.php?f=29&t=69235)                         | [theAsmodai](https://github.com/theAsmodai)            | 0.1.0.92     |
