@@ -1,9 +1,11 @@
 <p align="center">
-	<img align="center" src="https://user-images.githubusercontent.com/5860435/111066129-040e5e00-84f0-11eb-9e1f-7a7e8611da2b.png" alt="ReHLDS"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/50671740/214928942-b35e1e8b-56e9-42f8-a96c-bfb80d768859.png"></img>
 </p>
 
 ---
+<p align="center">
+ <img align="center" src="https://user-images.githubusercontent.com/5860435/111066129-040e5e00-84f0-11eb-9e1f-7a7e8611da2b.png" alt="ReHLDS"/>
+</p>
 
 <p align="center">Stable base package for CS 1.6 servers with the latest<b> ReHLDS, ReGameDLL, ReAPI, Rechecker etc.</b>
   It is dedicated for Linux based servers.</p>
