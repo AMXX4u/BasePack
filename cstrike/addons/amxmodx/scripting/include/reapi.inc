@@ -25,7 +25,8 @@ enum hooks_tables_e
 	ht_weaponbox,
 	ht_weapon,
 	ht_gib,
-	ht_cbaseentity
+	ht_cbaseentity,
+	ht_botmanager
 };
 
 enum members_tables_e
@@ -78,8 +79,12 @@ enum members_tables_e
 	mt_rebuystruct,
 	mt_mapinfo,
 	mt_csplayerweapon,
-	mt_gib
+	mt_gib,
+	mt_netadr,
+	mt_csentity
 };
+
+#define ReAPIFunc 				{EngineFunc, GamedllFunc, GamedllFunc_CBaseAnimating, GamedllFunc_CBasePlayer, GamedllFunc_CSGameRules, GamedllFunc_CGrenade, GamedllFunc_CWeaponBox, ReCheckerFunc, GamedllFunc_CBasePlayerWeapon, GamedllFunc_CGib, GamedllFunc_CBaseEntity, GamedllFunc_CBotManager}
 
 // Is like FNullEnt
 #define is_nullent(%0)          (%0 == 0 || is_entity(%0) == false)
@@ -130,7 +135,8 @@ enum AType
 	ATYPE_EDICT,
 	ATYPE_EVARS,
 	ATYPE_BOOL,
-	ATYPE_VECTOR
+	ATYPE_VECTOR,
+	ATYPE_TRACE
 };
 
 enum HookChain
@@ -148,7 +154,7 @@ enum HookChain
 *
 * @return           Returns a hook handle. Use EnableHookChain/DisableHookChain to toggle the forward on or off
 */
-native HookChain:RegisterHookChain({EngineFunc, GamedllFunc, GamedllFunc_CBaseAnimating, GamedllFunc_CBasePlayer, GamedllFunc_CSGameRules, GamedllFunc_CGrenade, GamedllFunc_CWeaponBox, ReCheckerFunc, GamedllFunc_CBasePlayerWeapon, GamedllFunc_CGib, GamedllFunc_CBaseEntity}:function_id, const callback[], post = 0);
+native HookChain:RegisterHookChain(ReAPIFunc:function_id, const callback[], post = 0);
 
 /*
 * Stops a hook from triggering.
@@ -209,7 +215,7 @@ native SetHookChainArg(number, AType:type, any:...);
 *
 * @return           Returns true if the original function was called, otherwise false
 */
-native bool:IsReapiHookOriginalWasCalled({EngineFunc, GamedllFunc, GamedllFunc_CBaseAnimating, GamedllFunc_CBasePlayer, GamedllFunc_CSGameRules, GamedllFunc_CGrenade, GamedllFunc_CWeaponBox, ReCheckerFunc, GamedllFunc_CBasePlayerWeapon, GamedllFunc_CGib}:function_id);
+native bool:IsReapiHookOriginalWasCalled(ReAPIFunc:function_id);
 
 /*
 * Returns the current hookchain handle.
